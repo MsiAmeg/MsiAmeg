@@ -1,4 +1,4 @@
-![image](https://github.com/MsiAmeg/mesto/assets/99011044/b3174a12-54b5-42f7-b3f3-f5110d140188)
+![image](https://github.com/MsiAmeg/mesto/assets/99011044/9498b1c0-bcca-4f6b-b699-9c45193d95ee)
 # Привет, Меня зовут Иван 🖐️
 Я Веб-Разработчик
 ------------------------
