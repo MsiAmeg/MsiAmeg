@@ -40,7 +40,8 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsiAmeg&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MsiAmeg&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MsiAmeg&theme=tokyonight" alt="streak" />
+  <img src="https://www.codewars.com/users/MsiAmeg/badges/large" alt="codewars"/>
 </div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MsiAmeg)
